@@ -5,4 +5,4 @@ Ve složce Application jsou soubory přímo k testovací aplikaci, stačí je st
 
 Ve složce SourceCode bude veškerý zdrojový kód pro možné budoucí úpravy stávající verze
 
-Ve složce ESP bude uložen program nahraný na ESP desku
+Ve složce BP_FINAL bude uložen program nahraný na ESP desku
