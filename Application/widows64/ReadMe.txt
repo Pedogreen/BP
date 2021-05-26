@@ -1,1 +1,0 @@
-pro verzi windows64
