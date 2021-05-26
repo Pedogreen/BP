@@ -1,0 +1,14 @@
+toto je návod jak vytvořit aplikaci pomocí IDE processing
+
+1.na následujícím linku si stáhněte processing
+https://processing.org/download/
+2. nainstalujte processing
+3. z následujícího linku si stáhněte zdrojový kód pro aplikaci
+https://github.com/Pedogreen/BP/tree/main/SourceCode/game
+note: je potřeba všech 11 souborů stáhnout popořadě
+4. otevřete game.pde
+	zobrazí se zdrojový kód v processingu
+5.pote exportuje aplikaci 
+	File/Export Applikation
+	po vyskočení kontrolního okna pouze potvrďte stisknutím Export
+6. ve složče se Vám vytvoří exportované verze aplikace pro systém 32 a 64
