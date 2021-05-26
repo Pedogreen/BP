@@ -1,0 +1,1 @@
+pro verzi windows32
